@@ -9,19 +9,19 @@
     "preamble": " ",
     "ui": {
         "order": [
-            "items/Procedure to test Vision",
-            "items/Color vision"
+            "items/procedure_to_test_vision",
+            "items/color_vision"
         ],
         "shuffle": false,
         "addProperties": [
             {
-                "variableName": "Procedure to test Vision",
-                "isAbout": "items/Procedure to test Vision",
+                "variableName": "procedure_to_test_vision",
+                "isAbout": "items/procedure_to_test_vision",
                 "isVis": "0"
             },
             {
-                "variableName": "Color vision",
-                "isAbout": "items/Color vision",
+                "variableName": "color_vision",
+                "isAbout": "items/color_vision",
                 "isVis": "0"
             }
         ]

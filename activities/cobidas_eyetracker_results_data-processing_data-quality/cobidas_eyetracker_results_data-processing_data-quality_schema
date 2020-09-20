@@ -9,73 +9,73 @@
     "preamble": " ",
     "ui": {
         "order": [
-            "items/Handling of Artefacts",
-            "items/Obtained Accuracy",
-            "items/Monitoring of Data Quality",
-            "items/Proportion of Excluded Trials",
-            "items/Reasons for Excluding Trials",
-            "items/Number of Participants Excluded",
-            "items/Quality Threshold",
-            "items/Percentage of Lost Data",
-            "items/Test of Assumptions for Missing Data",
-            "items/Methods Addressing Missing Data",
-            "items/Denoising, Filtering or Smoothing of Raw Data"
+            "items/handling_of_artefacts",
+            "items/obtained_accuracy",
+            "items/monitoring_of_data_quality",
+            "items/proportion_of_excluded_trials",
+            "items/reasons_for_excluding_trials",
+            "items/number_of_participants_excluded",
+            "items/quality_threshold",
+            "items/percentage_of_lost_data",
+            "items/test_of_assumptions_for_missing_data",
+            "items/methods_addressing_missing_data",
+            "items/denoising,_filtering_or_smoothing_of_raw_data"
         ],
         "shuffle": false,
         "addProperties": [
             {
-                "variableName": "Handling of Artefacts",
-                "isAbout": "items/Handling of Artefacts",
+                "variableName": "handling_of_artefacts",
+                "isAbout": "items/handling_of_artefacts",
                 "isVis": "0"
             },
             {
-                "variableName": "Obtained Accuracy",
-                "isAbout": "items/Obtained Accuracy",
+                "variableName": "obtained_accuracy",
+                "isAbout": "items/obtained_accuracy",
                 "isVis": "0"
             },
             {
-                "variableName": "Monitoring of Data Quality",
-                "isAbout": "items/Monitoring of Data Quality",
+                "variableName": "monitoring_of_data_quality",
+                "isAbout": "items/monitoring_of_data_quality",
                 "isVis": true
             },
             {
-                "variableName": "Proportion of Excluded Trials",
-                "isAbout": "items/Proportion of Excluded Trials",
+                "variableName": "proportion_of_excluded_trials",
+                "isAbout": "items/proportion_of_excluded_trials",
                 "isVis": true
             },
             {
-                "variableName": "Reasons for Excluding Trials",
-                "isAbout": "items/Reasons for Excluding Trials",
+                "variableName": "reasons_for_excluding_trials",
+                "isAbout": "items/reasons_for_excluding_trials",
                 "isVis": true
             },
             {
-                "variableName": "Number of Participants Excluded",
-                "isAbout": "items/Number of Participants Excluded",
+                "variableName": "number_of_participants_excluded",
+                "isAbout": "items/number_of_participants_excluded",
                 "isVis": true
             },
             {
-                "variableName": "Quality Threshold",
-                "isAbout": "items/Quality Threshold",
+                "variableName": "quality_threshold",
+                "isAbout": "items/quality_threshold",
                 "isVis": true
             },
             {
-                "variableName": "Percentage of Lost Data",
-                "isAbout": "items/Percentage of Lost Data",
+                "variableName": "percentage_of_lost_data",
+                "isAbout": "items/percentage_of_lost_data",
                 "isVis": true
             },
             {
-                "variableName": "Test of Assumptions for Missing Data",
-                "isAbout": "items/Test of Assumptions for Missing Data",
+                "variableName": "test_of_assumptions_for_missing_data",
+                "isAbout": "items/test_of_assumptions_for_missing_data",
                 "isVis": "0"
             },
             {
-                "variableName": "Methods Addressing Missing Data",
-                "isAbout": "items/Methods Addressing Missing Data",
+                "variableName": "methods_addressing_missing_data",
+                "isAbout": "items/methods_addressing_missing_data",
                 "isVis": "0"
             },
             {
-                "variableName": "Denoising, Filtering or Smoothing of Raw Data",
-                "isAbout": "items/Denoising, Filtering or Smoothing of Raw Data",
+                "variableName": "denoising,_filtering_or_smoothing_of_raw_data",
+                "isAbout": "items/denoising,_filtering_or_smoothing_of_raw_data",
                 "isVis": "0"
             }
         ]

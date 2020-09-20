@@ -9,55 +9,55 @@
     "preamble": " ",
     "ui": {
         "order": [
-            "items/Size of AOIs",
-            "items/Overlap between the AOIs",
-            "items/Minimal Distance between AOIs",
-            "items/Relative Size of AOI and",
-            "items/Example Image Included",
-            "items/Method for Stimulus Preparation",
-            "items/Luminance Matched between Stimuli",
-            "items/Size of Stimulus"
+            "items/size_of_aois",
+            "items/overlap_between_the_aois",
+            "items/minimal_distance_between_aois",
+            "items/relative_size_of_aoi_and",
+            "items/example_image_included",
+            "items/method_for_stimulus_preparation",
+            "items/luminance_matched_between_stimuli",
+            "items/size_of_stimulus"
         ],
         "shuffle": false,
         "addProperties": [
             {
-                "variableName": "Size of AOIs",
-                "isAbout": "items/Size of AOIs",
+                "variableName": "size_of_aois",
+                "isAbout": "items/size_of_aois",
                 "isVis": true
             },
             {
-                "variableName": "Overlap between the AOIs",
-                "isAbout": "items/Overlap between the AOIs",
+                "variableName": "overlap_between_the_aois",
+                "isAbout": "items/overlap_between_the_aois",
                 "isVis": true
             },
             {
-                "variableName": "Minimal Distance between AOIs",
-                "isAbout": "items/Minimal Distance between AOIs",
+                "variableName": "minimal_distance_between_aois",
+                "isAbout": "items/minimal_distance_between_aois",
                 "isVis": true
             },
             {
-                "variableName": "Relative Size of AOI and",
-                "isAbout": "items/Relative Size of AOI and",
+                "variableName": "relative_size_of_aoi_and",
+                "isAbout": "items/relative_size_of_aoi_and",
                 "isVis": true
             },
             {
-                "variableName": "Example Image Included",
-                "isAbout": "items/Example Image Included",
+                "variableName": "example_image_included",
+                "isAbout": "items/example_image_included",
                 "isVis": "0"
             },
             {
-                "variableName": "Method for Stimulus Preparation",
-                "isAbout": "items/Method for Stimulus Preparation",
+                "variableName": "method_for_stimulus_preparation",
+                "isAbout": "items/method_for_stimulus_preparation",
                 "isVis": true
             },
             {
-                "variableName": "Luminance Matched between Stimuli",
-                "isAbout": "items/Luminance Matched between Stimuli",
+                "variableName": "luminance_matched_between_stimuli",
+                "isAbout": "items/luminance_matched_between_stimuli",
                 "isVis": true
             },
             {
-                "variableName": "Size of Stimulus",
-                "isAbout": "items/Size of Stimulus",
+                "variableName": "size_of_stimulus",
+                "isAbout": "items/size_of_stimulus",
                 "isVis": "0"
             }
         ]

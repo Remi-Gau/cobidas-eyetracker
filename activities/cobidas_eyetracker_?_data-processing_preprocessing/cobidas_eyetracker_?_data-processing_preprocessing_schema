@@ -9,25 +9,25 @@
     "preamble": " ",
     "ui": {
         "order": [
-            "items/Artefact Detection",
-            "items/Pupil Aggregation Method",
-            "items/Pupil Algorithm"
+            "items/artefact_detection",
+            "items/pupil_aggregation_method",
+            "items/pupil_algorithm"
         ],
         "shuffle": false,
         "addProperties": [
             {
-                "variableName": "Artefact Detection",
-                "isAbout": "items/Artefact Detection",
+                "variableName": "artefact_detection",
+                "isAbout": "items/artefact_detection",
                 "isVis": "0"
             },
             {
-                "variableName": "Pupil Aggregation Method",
-                "isAbout": "items/Pupil Aggregation Method",
+                "variableName": "pupil_aggregation_method",
+                "isAbout": "items/pupil_aggregation_method",
                 "isVis": "0"
             },
             {
-                "variableName": "Pupil Algorithm",
-                "isAbout": "items/Pupil Algorithm",
+                "variableName": "pupil_algorithm",
+                "isAbout": "items/pupil_algorithm",
                 "isVis": "0"
             }
         ]

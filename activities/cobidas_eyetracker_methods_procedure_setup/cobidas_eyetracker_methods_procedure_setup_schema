@@ -9,67 +9,67 @@
     "preamble": " ",
     "ui": {
         "order": [
-            "items/Length of Inter Stimulus Interval",
-            "items/Length of Fixation Cross Presentation",
-            "items/Position of Fixation Cross",
-            "items/Length of Stimulus Presentation",
-            "items/Order of Stimulus Presentation",
-            "items/Counter Balancing of Positions in the Presentation",
-            "items/Number of trials",
-            "items/Experimenter",
-            "items/Setting and Location of Data Collection",
-            "items/Distance between Participant and Screen"
+            "items/length_of_inter_stimulus_interval",
+            "items/length_of_fixation_cross_presentation",
+            "items/position_of_fixation_cross",
+            "items/length_of_stimulus_presentation",
+            "items/order_of_stimulus_presentation",
+            "items/counter_balancing_of_positions_in_the_presentation",
+            "items/number_of_trials",
+            "items/experimenter",
+            "items/setting_and_location_of_data_collection",
+            "items/distance_between_participant_and_screen"
         ],
         "shuffle": false,
         "addProperties": [
             {
-                "variableName": "Length of Inter Stimulus Interval",
-                "isAbout": "items/Length of Inter Stimulus Interval",
+                "variableName": "length_of_inter_stimulus_interval",
+                "isAbout": "items/length_of_inter_stimulus_interval",
                 "isVis": true
             },
             {
-                "variableName": "Length of Fixation Cross Presentation",
-                "isAbout": "items/Length of Fixation Cross Presentation",
+                "variableName": "length_of_fixation_cross_presentation",
+                "isAbout": "items/length_of_fixation_cross_presentation",
                 "isVis": true
             },
             {
-                "variableName": "Position of Fixation Cross",
-                "isAbout": "items/Position of Fixation Cross",
+                "variableName": "position_of_fixation_cross",
+                "isAbout": "items/position_of_fixation_cross",
                 "isVis": true
             },
             {
-                "variableName": "Length of Stimulus Presentation",
-                "isAbout": "items/Length of Stimulus Presentation",
+                "variableName": "length_of_stimulus_presentation",
+                "isAbout": "items/length_of_stimulus_presentation",
                 "isVis": true
             },
             {
-                "variableName": "Order of Stimulus Presentation",
-                "isAbout": "items/Order of Stimulus Presentation",
+                "variableName": "order_of_stimulus_presentation",
+                "isAbout": "items/order_of_stimulus_presentation",
                 "isVis": true
             },
             {
-                "variableName": "Counter Balancing of Positions in the Presentation",
-                "isAbout": "items/Counter Balancing of Positions in the Presentation",
+                "variableName": "counter_balancing_of_positions_in_the_presentation",
+                "isAbout": "items/counter_balancing_of_positions_in_the_presentation",
                 "isVis": true
             },
             {
-                "variableName": "Number of trials",
-                "isAbout": "items/Number of trials",
+                "variableName": "number_of_trials",
+                "isAbout": "items/number_of_trials",
                 "isVis": true
             },
             {
-                "variableName": "Experimenter",
-                "isAbout": "items/Experimenter",
+                "variableName": "experimenter",
+                "isAbout": "items/experimenter",
                 "isVis": "0"
             },
             {
-                "variableName": "Setting and Location of Data Collection",
-                "isAbout": "items/Setting and Location of Data Collection",
+                "variableName": "setting_and_location_of_data_collection",
+                "isAbout": "items/setting_and_location_of_data_collection",
                 "isVis": true
             },
             {
-                "variableName": "Distance between Participant and Screen",
-                "isAbout": "items/Distance between Participant and Screen",
+                "variableName": "distance_between_participant_and_screen",
+                "isAbout": "items/distance_between_participant_and_screen",
                 "isVis": "0"
             }
         ]

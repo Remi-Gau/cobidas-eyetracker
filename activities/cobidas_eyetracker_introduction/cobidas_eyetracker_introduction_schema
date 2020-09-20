@@ -9,13 +9,13 @@
     "preamble": " ",
     "ui": {
         "order": [
-            "items/Importance of auxiliary assumptions"
+            "items/importance_of_auxiliary_assumptions"
         ],
         "shuffle": false,
         "addProperties": [
             {
-                "variableName": "Importance of auxiliary assumptions",
-                "isAbout": "items/Importance of auxiliary assumptions",
+                "variableName": "importance_of_auxiliary_assumptions",
+                "isAbout": "items/importance_of_auxiliary_assumptions",
                 "isVis": true
             }
         ]

@@ -9,19 +9,19 @@
     "preamble": " ",
     "ui": {
         "order": [
-            "items/Importance of Study Specific Limitations",
-            "items/Importance of Limitations in General"
+            "items/importance_of_study_specific_limitations",
+            "items/importance_of_limitations_in_general"
         ],
         "shuffle": false,
         "addProperties": [
             {
-                "variableName": "Importance of Study Specific Limitations",
-                "isAbout": "items/Importance of Study Specific Limitations",
+                "variableName": "importance_of_study_specific_limitations",
+                "isAbout": "items/importance_of_study_specific_limitations",
                 "isVis": true
             },
             {
-                "variableName": "Importance of Limitations in General",
-                "isAbout": "items/Importance of Limitations in General",
+                "variableName": "importance_of_limitations_in_general",
+                "isAbout": "items/importance_of_limitations_in_general",
                 "isVis": true
             }
         ]

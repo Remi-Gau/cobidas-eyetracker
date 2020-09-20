@@ -9,19 +9,19 @@
     "preamble": " ",
     "ui": {
         "order": [
-            "items/Pre-Processing Program",
-            "items/Stimulus Presentation"
+            "items/pre_processing_program",
+            "items/stimulus_presentation"
         ],
         "shuffle": false,
         "addProperties": [
             {
-                "variableName": "Pre-Processing Program",
-                "isAbout": "items/Pre-Processing Program",
+                "variableName": "pre_processing_program",
+                "isAbout": "items/pre_processing_program",
                 "isVis": true
             },
             {
-                "variableName": "Stimulus Presentation",
-                "isAbout": "items/Stimulus Presentation",
+                "variableName": "stimulus_presentation",
+                "isAbout": "items/stimulus_presentation",
                 "isVis": true
             }
         ]

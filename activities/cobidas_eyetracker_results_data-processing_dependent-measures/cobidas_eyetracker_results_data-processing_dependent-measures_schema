@@ -9,31 +9,31 @@
     "preamble": " ",
     "ui": {
         "order": [
-            "items/Other Transformations of Data",
-            "items/Blink Detection",
-            "items/Fixation Detection",
-            "items/Aggregation Method for Fixations during Data"
+            "items/other_transformations_of_data",
+            "items/blink_detection",
+            "items/fixation_detection",
+            "items/aggregation_method_for_fixations_during_data"
         ],
         "shuffle": false,
         "addProperties": [
             {
-                "variableName": "Other Transformations of Data",
-                "isAbout": "items/Other Transformations of Data",
+                "variableName": "other_transformations_of_data",
+                "isAbout": "items/other_transformations_of_data",
                 "isVis": true
             },
             {
-                "variableName": "Blink Detection",
-                "isAbout": "items/Blink Detection",
+                "variableName": "blink_detection",
+                "isAbout": "items/blink_detection",
                 "isVis": "0"
             },
             {
-                "variableName": "Fixation Detection",
-                "isAbout": "items/Fixation Detection",
+                "variableName": "fixation_detection",
+                "isAbout": "items/fixation_detection",
                 "isVis": "0"
             },
             {
-                "variableName": "Aggregation Method for Fixations during Data",
-                "isAbout": "items/Aggregation Method for Fixations during Data",
+                "variableName": "aggregation_method_for_fixations_during_data",
+                "isAbout": "items/aggregation_method_for_fixations_during_data",
                 "isVis": true
             }
         ]

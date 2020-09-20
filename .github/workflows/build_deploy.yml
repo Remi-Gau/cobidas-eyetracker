@@ -52,8 +52,7 @@ jobs:
     - name: Test with pyshacl
       run: |
         reproschema -l DEBUG validate protocols/cobidas_eyetracker/cobidas_eyetracker_schema
-        
-      # reproschema -l DEBUG validate activities
+        reproschema -l DEBUG validate activities
         
 
     # Runs a set of commands using the runners shell

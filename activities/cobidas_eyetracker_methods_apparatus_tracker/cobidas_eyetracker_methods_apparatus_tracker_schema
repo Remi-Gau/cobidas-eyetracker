@@ -9,91 +9,91 @@
     "preamble": " ",
     "ui": {
         "order": [
-            "items/Name",
-            "items/Producer",
-            "items/Type remote Device",
-            "items/Type of Device",
-            "items/Lens size",
-            "items/Sampling Procedure",
-            "items/Sampling Rate",
-            "items/Accuracy",
-            "items/Precision",
-            "items/Temporal Precision",
-            "items/Stimulus-Synchronization Latency",
-            "items/Latency",
-            "items/Headbox",
-            "items/Chin Rest"
+            "items/name",
+            "items/producer",
+            "items/type_remote_device",
+            "items/type_of_device",
+            "items/lens_size",
+            "items/sampling_procedure",
+            "items/sampling_rate",
+            "items/accuracy",
+            "items/precision",
+            "items/temporal_precision",
+            "items/stimulus_synchronization_latency",
+            "items/latency",
+            "items/headbox",
+            "items/chin_rest"
         ],
         "shuffle": false,
         "addProperties": [
             {
-                "variableName": "Name",
-                "isAbout": "items/Name",
+                "variableName": "name",
+                "isAbout": "items/name",
                 "isVis": true
             },
             {
-                "variableName": "Producer",
-                "isAbout": "items/Producer",
+                "variableName": "producer",
+                "isAbout": "items/producer",
                 "isVis": true
             },
             {
-                "variableName": "Type remote Device",
-                "isAbout": "items/Type remote Device",
+                "variableName": "type_remote_device",
+                "isAbout": "items/type_remote_device",
                 "isVis": true
             },
             {
-                "variableName": "Type of Device",
-                "isAbout": "items/Type of Device",
+                "variableName": "type_of_device",
+                "isAbout": "items/type_of_device",
                 "isVis": "0"
             },
             {
-                "variableName": "Lens size",
-                "isAbout": "items/Lens size",
+                "variableName": "lens_size",
+                "isAbout": "items/lens_size",
                 "isVis": "0"
             },
             {
-                "variableName": "Sampling Procedure",
-                "isAbout": "items/Sampling Procedure",
+                "variableName": "sampling_procedure",
+                "isAbout": "items/sampling_procedure",
                 "isVis": "0"
             },
             {
-                "variableName": "Sampling Rate",
-                "isAbout": "items/Sampling Rate",
+                "variableName": "sampling_rate",
+                "isAbout": "items/sampling_rate",
                 "isVis": "0"
             },
             {
-                "variableName": "Accuracy",
-                "isAbout": "items/Accuracy",
+                "variableName": "accuracy",
+                "isAbout": "items/accuracy",
                 "isVis": "0"
             },
             {
-                "variableName": "Precision",
-                "isAbout": "items/Precision",
+                "variableName": "precision",
+                "isAbout": "items/precision",
                 "isVis": "0"
             },
             {
-                "variableName": "Temporal Precision",
-                "isAbout": "items/Temporal Precision",
+                "variableName": "temporal_precision",
+                "isAbout": "items/temporal_precision",
                 "isVis": "0"
             },
             {
-                "variableName": "Stimulus-Synchronization Latency",
-                "isAbout": "items/Stimulus-Synchronization Latency",
+                "variableName": "stimulus_synchronization_latency",
+                "isAbout": "items/stimulus_synchronization_latency",
                 "isVis": "0"
             },
             {
-                "variableName": "Latency",
-                "isAbout": "items/Latency",
+                "variableName": "latency",
+                "isAbout": "items/latency",
                 "isVis": "0"
             },
             {
-                "variableName": "Headbox",
-                "isAbout": "items/Headbox",
+                "variableName": "headbox",
+                "isAbout": "items/headbox",
                 "isVis": "0"
             },
             {
-                "variableName": "Chin Rest",
-                "isAbout": "items/Chin Rest",
+                "variableName": "chin_rest",
+                "isAbout": "items/chin_rest",
                 "isVis": "0"
             }
         ]
