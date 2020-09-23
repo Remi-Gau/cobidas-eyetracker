@@ -28,7 +28,7 @@ We are currently working on trying to expand the number of items used in the che
 - The M/EEG spreadsheet is accessible [here](https://docs.google.com/spreadsheets/d/1OhkmbtgIWdFxSVjpu6A8PWoAuqev0jY-98GFQlwBCy0/edit?usp=sharing)
 - The PET spreadsheet is accessible [here](https://docs.google.com/spreadsheets/d/1HS-1KOP8nE7C3MHiyRmQ6hd823cBZnCRVq0UryXvDc8/edit?usp=sharing)
 
-## Want to know more? Have any questions? Something is missing? Let us know.
+## Want to know more? Have any questions? Something is missing? Want to help? Let us know.
 
 -   Most of the information is on this [github repository](https://github.com/Remi-Gau/COBIDAS_chckls). Open an issue there if something does not work or if you want a new feature.
 -   There is also an [OSF project](https://osf.io/anvqy/) to centralize all the information and repos.
