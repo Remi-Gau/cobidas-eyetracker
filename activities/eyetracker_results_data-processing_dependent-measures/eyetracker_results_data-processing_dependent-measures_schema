@@ -24,13 +24,13 @@
             {
                 "variableName": "blink_detection",
                 "isAbout": "items/blink_detection",
-                "isVis": "long_form == 1",
+                "isVis": "true",
                 "valueRequired": false
             },
             {
                 "variableName": "fixation_detection",
                 "isAbout": "items/fixation_detection",
-                "isVis": "long_form == 1",
+                "isVis": "true",
                 "valueRequired": false
             },
             {

@@ -18,7 +18,7 @@
             {
                 "variableName": "type",
                 "isAbout": "items/type",
-                "isVis": "long_form == 1",
+                "isVis": "true",
                 "valueRequired": false
             },
             {
@@ -36,7 +36,7 @@
             {
                 "variableName": "screen_refresh_rate_software",
                 "isAbout": "items/screen_refresh_rate_software",
-                "isVis": "long_form == 1",
+                "isVis": "true",
                 "valueRequired": false
             }
         ]

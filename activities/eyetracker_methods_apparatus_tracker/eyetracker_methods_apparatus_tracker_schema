@@ -46,67 +46,67 @@
             {
                 "variableName": "type_of_device",
                 "isAbout": "items/type_of_device",
-                "isVis": "long_form == 1",
+                "isVis": "true",
                 "valueRequired": false
             },
             {
                 "variableName": "lens_size",
                 "isAbout": "items/lens_size",
-                "isVis": "long_form == 1",
+                "isVis": "true",
                 "valueRequired": false
             },
             {
                 "variableName": "sampling_procedure",
                 "isAbout": "items/sampling_procedure",
-                "isVis": "long_form == 1",
+                "isVis": "true",
                 "valueRequired": false
             },
             {
                 "variableName": "sampling_rate",
                 "isAbout": "items/sampling_rate",
-                "isVis": "long_form == 1",
+                "isVis": "true",
                 "valueRequired": false
             },
             {
                 "variableName": "accuracy",
                 "isAbout": "items/accuracy",
-                "isVis": "long_form == 1",
+                "isVis": "true",
                 "valueRequired": false
             },
             {
                 "variableName": "precision",
                 "isAbout": "items/precision",
-                "isVis": "long_form == 1",
+                "isVis": "true",
                 "valueRequired": false
             },
             {
                 "variableName": "temporal_precision",
                 "isAbout": "items/temporal_precision",
-                "isVis": "long_form == 1",
+                "isVis": "true",
                 "valueRequired": false
             },
             {
                 "variableName": "stimulus_synchronization_latency",
                 "isAbout": "items/stimulus_synchronization_latency",
-                "isVis": "long_form == 1",
+                "isVis": "true",
                 "valueRequired": false
             },
             {
                 "variableName": "latency",
                 "isAbout": "items/latency",
-                "isVis": "long_form == 1",
+                "isVis": "true",
                 "valueRequired": false
             },
             {
                 "variableName": "headbox",
                 "isAbout": "items/headbox",
-                "isVis": "long_form == 1",
+                "isVis": "true",
                 "valueRequired": false
             },
             {
                 "variableName": "chin_rest",
                 "isAbout": "items/chin_rest",
-                "isVis": "long_form == 1",
+                "isVis": "true",
                 "valueRequired": false
             }
         ]

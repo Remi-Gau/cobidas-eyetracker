@@ -19,31 +19,31 @@
             {
                 "variableName": "vision_of_participants",
                 "isAbout": "items/vision_of_participants",
-                "isVis": "long_form == 1",
+                "isVis": "true",
                 "valueRequired": false
             },
             {
                 "variableName": "proportion_of_women",
                 "isAbout": "items/proportion_of_women",
-                "isVis": "long_form == 1",
+                "isVis": "true",
                 "valueRequired": false
             },
             {
                 "variableName": "mean_age",
                 "isAbout": "items/mean_age",
-                "isVis": "long_form == 1",
+                "isVis": "true",
                 "valueRequired": false
             },
             {
                 "variableName": "procedure_to_test_vision",
                 "isAbout": "items/procedure_to_test_vision",
-                "isVis": "long_form == 1",
+                "isVis": "true",
                 "valueRequired": false
             },
             {
                 "variableName": "color_vision",
                 "isAbout": "items/color_vision",
-                "isVis": "long_form == 1",
+                "isVis": "true",
                 "valueRequired": false
             }
         ]
