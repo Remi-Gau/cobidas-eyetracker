@@ -4,7 +4,7 @@ This checklist is based on following work:
 
 > Fiedler, S., Schulte-Mecklenbeck, M., Renkewitz, F., & Orquin, J. L. (2020, September 11). Guideline for Reporting Standards of Eye-tracking Research in Decision Sciences. https://doi.org/10.31234/osf.io/f6qcy
 
-The items reported were turned into [a] spreadsheet](https://docs.google.com/spreadsheets/d/1aQZINzS24oYDgu6PZ8djqZQZ2s2eNs2xP6kyzHokU8o/edit?usp=sharing) and then converted into a schema and rendered with the reproschema user-interfae.
+The items reported were turned into [a spreadsheet](https://docs.google.com/spreadsheets/d/1aQZINzS24oYDgu6PZ8djqZQZ2s2eNs2xP6kyzHokU8o/edit?usp=sharing) and then converted into a schema and rendered with the reproschema user-interfae.
 
 
 ## Why this project?
